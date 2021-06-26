@@ -1,2 +1,4 @@
 def grad(n):
 return True
+
+#how should we create a network?
